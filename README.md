@@ -20,7 +20,7 @@ Some seriously ugly code ahead. Using this as a scratchpad to test the functiona
 
 
 | Portion     | What was used    |
-| ----------- | ---------------- |
+|:----------- | ----------------:|
 | Platform    | Espressif ESP32  |
 | Framework   | Arduino          |
 | Board       | nodemcu-32s      |
