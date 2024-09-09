@@ -16,3 +16,13 @@ Some seriously ugly code ahead. Using this as a scratchpad to test the functiona
 * Keypad - https://github.com/Chris--A/Keypad.git
 * U8g2 - https://github.com/olikraus/U8g2_Arduino.git
 
+### Tools/Frameworks Used:
+
+
+| Portion     | What was used    |
+| ----------- | ---------------- |
+| Platform    | Espressif ESP32  |
+| Framework   | Arduino          |
+| Board       | nodemcu-32s      |
+
+
