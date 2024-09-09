@@ -4,6 +4,9 @@
 
 ## Copyright: ©2024 Wing Tang Wong
 
+![Simple Board Running Firmware w/OLED](images/simple_board_firmware_clear_and_frosted_buttons_oled.jpg)
+
+
 SimpleBoard was a project to test making a keypad and adding RGB led(s) as well as making the devices chainable for easy expansion
 
 ### WARNING
